@@ -1,0 +1,15 @@
+const String flower = 'lib/core/assets/flower.png';
+const String login = 'lib/core/assets/login.png';
+const String reverseLogin = 'lib/core/assets/reverse_login.png';
+const String car = 'lib/core/assets/car.png';
+const String filter = 'lib/core/assets/filter.png';
+const String car1 = 'lib/core/assets/car1.png';
+const String car2 = 'lib/core/assets/car2.png';
+const String car3 = 'lib/core/assets/car3.png';
+const String car4 = 'lib/core/assets/car4.png';
+const String car5 = 'lib/core/assets/car5.png';
+const String iconHome = 'lib/core/assets/iconHome.png';
+const String iconSetting = 'lib/core/assets/iconSetting.png';
+const String iconCart = 'lib/core/assets/iconCart.png';
+const String alert = 'lib/core/assets/alert.png';
+const String success = 'lib/core/assets/success.png';
